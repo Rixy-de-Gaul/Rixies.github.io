@@ -6,12 +6,14 @@ body{
   h1{
     color: white;
     background-color:#800020;
-    border: 2px white;
-    padding: 15px;
-    background-clip: padding-box;
+    border: 7px solid #800020;
+    padding: 10px;
+    background-clip: border-box;
+    box-shadow: inset 0px 0px 0px 2px white;
+    border-style: outset;
     text-align:center;
     font-weight: bold;
-  }
+    }
   
   h2{
     color:grey;
