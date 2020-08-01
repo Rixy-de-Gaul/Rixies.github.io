@@ -1,0 +1,21 @@
+body{
+  background-color:#f5f5dc;
+  text-align:left;
+  }
+  
+  h1{
+    color: white;
+    background-color:burg;
+    text-align:center;
+    font-weight: bold;
+  }
+  
+  h2{
+    color:grey;
+    font-style: italic;
+    text-align:center;
+  }
+  
+  p{
+    text-align:center;
+  }
