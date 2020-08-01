@@ -4,17 +4,18 @@ body{
   }
   
   h1{
-  color:burg;
-  text-align:center;
-  font-weight: bold;
+    color: white;
+    background-color:burg;
+    text-align:center;
+    font-weight: bold;
   }
   
   h2{
-  color:grey;
-  font-style: italic;
-  text-align:center;
+    color:grey;
+    font-style: italic;
+    text-align:center;
   }
   
   p{
-  text-align:center;
+    text-align:center;
   }
